@@ -12,7 +12,7 @@ Design Goals:
 
 Different hardware and driver combinations will produces various names for 
 your Display outputs. Start by having only your default display on. And then 
-add additional monitors/projects to understand which physical output matches 
+add additional monitors/projectors to understand which physical output matches 
 which name.
 
 ```
@@ -51,6 +51,7 @@ SETDISPLAYS_DBG=1; setdisplays default
 ```
 
 # Resources
+* [Display layout debugging example @ GTALUG Mailing List](https://gtalug.org/pipermail/talk/2017-October/005377.html)
 * [RandR @ Wikipedia](https://en.wikipedia.org/wiki/RandR)
 * [xrandr @ ArchWiki](https://wiki.archlinux.org/index.php/Xrandr)
 * [XRandR @ x.org](https://www.x.org/wiki/Projects/XRandR/)
